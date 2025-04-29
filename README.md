@@ -36,6 +36,9 @@
 ## Demo 影片
 [點此觀看 Demo 影片](https://streamable.com/bdwppo)
 
+## Medium 連結
+[點此觀看 Medium](https://medium.com/@bruce930110930110/創作有梗的flutter-app-遊戲-d18db849a1b3)
+
 ## 功能特色
 
 *   經典貪吃蛇遊戲玩法
